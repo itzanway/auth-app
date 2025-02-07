@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import styles from '../styles/Home.module.css';
+import styles from '../styles/styles.module.css';
 import { useEffect, useState } from 'react';
 import { ethers } from 'ethers';
 
